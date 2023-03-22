@@ -1,4 +1,5 @@
 # Mind map
+
 1. Elasticsearch
 1.1. Introduction
 1.1.1. Definition
